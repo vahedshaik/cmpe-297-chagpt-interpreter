@@ -1,1 +1,1 @@
-# cmpe-297-chagpt-interpreter
+# cmpe-297-chatgpt-interpreter
