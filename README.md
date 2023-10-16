@@ -1,6 +1,6 @@
 # cmpe-297-chatgpt-interpreter
 
-Assignment 1:
+Part 1:
 
 Do data science (ideally deep learning but simpler one is fine) using chatgpt code interpreter by picking a popular data set in kaggle website, upload and do various modules of data science - like my example . Export your chat transcript and submit it.
 
@@ -12,6 +12,6 @@ Medium article: https://medium.com/@abdulvahed.shaik/predict-the-superstore-sale
 
 ChatGPT chat: https://chat.openai.com/share/c7892e6d-dcc3-4ddc-8101-d60c02eade5a
 
-Assignment 2:
+Part 2:
 
-Visual studio code github copilot extension Install visual studio code install github copilot extension
+
