@@ -14,4 +14,19 @@ ChatGPT chat: https://chat.openai.com/share/c7892e6d-dcc3-4ddc-8101-d60c02eade5a
 
 Part 2:
 
+Visual studio code github copilot extension Install visual studio code install github copilot extension https://code.visualstudio.com/docs/editor/artificial-intelligence 
+
+https://code.visualstudio.com/docs/editor/artificial-intelligence 
+https://www.youtube.com/watch?v=ImWfIDTxn7E
+https://www.linkedin.com/pulse/best-practices-prompting-github-copilot-vs-code-pamela-fox/ 
+https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/
+https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp
+
+https://www.youtube.com/watch?v=CwAzIpc4AnA 
+
+and chat extension
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat
+
+Google Drive link: https://drive.google.com/drive/folders/1vh_JQuFUjpB_IYYo53GH8fWOOnDg95JM?usp=sharing
 
